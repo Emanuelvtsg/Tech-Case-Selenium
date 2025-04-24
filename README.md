@@ -20,6 +20,7 @@ Cada arquivo remete a um desafio distinto:
 ```
 pip install -r requirements.txt
 ```
+
 <p>3. Alterar em todos os arquivos do Selenium para o options.add_argument apontar para o caminho do seu usuário default</p>
 
 <p>4. Agora é só rodar cada arquivo individualmente!</p>
