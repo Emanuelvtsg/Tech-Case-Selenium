@@ -17,9 +17,8 @@ Cada arquivo remete a um desafio distinto:
 <p>1. Clonar o repositório.</p>
 
 <p>2. Instalar os requirements</p>
-```
-pip install -r requirements.txt
-```
+<pre> ```bash pip install -r requirements.txt ``` </pre>
+
 
 <p>3. Alterar em todos os arquivos do Selenium para o options.add_argument apontar para o caminho do seu usuário default</p>
 
